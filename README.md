@@ -1,1 +1,1 @@
-# 7.My-Routine
+I will start by creating a daily schedule that includes block of time for focused work and break, for example, I might work in 50 minute chunks with 10 minutes break in between.During the focused work time, I would turn of my phone and other distractions, and focus solely on my coding tasks
